@@ -11,5 +11,5 @@ This dataset is mostly to assist with the analysis of the Aerial Bombing Operati
 
 ### Goal or Objective:
 The Goal or the objective of this study is to predict the max and min temp based on several parameters and represent it in a visual form.
-#### To view Jupyter Notebook click [here]([url](https://github.com/SrutiDutta/WW2-Weather-Prediction/blob/main/Code.ipynb))
+#### To view Jupyter Notebook click [here](https://github.com/SrutiDutta/WW2-Weather-Prediction/blob/main/Code.ipynb)
 #### To view Viz on Tableau Public click [here](https://public.tableau.com/app/profile/sruti2331/viz/WeatherReportPrediction/Dashboard1?publish=yes)
